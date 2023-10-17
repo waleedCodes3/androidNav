@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeID"
+        android:icon="@drawable/add_home"
+        android:title="home" />
+    <item
+        android:id="@+id/videoID"
+        android:icon="@drawable/movie"
+        android:title="movie" />
+    <item
+        android:id="@+id/efabid"
+        android:title="" />
+    <item
+        android:id="@+id/notesID"
+        android:icon="@drawable/note_add_24"
+        android:title="Notes" />
+    <item
+        android:id="@+id/newsID"
+        android:icon="@drawable/newspaper_24"
+        android:title="news" />
+</menu>
